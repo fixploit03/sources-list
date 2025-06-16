@@ -1,0 +1,10 @@
+deb http://kambing.ui.ac.id/ubuntu/ groovy main restricted
+deb http://kambing.ui.ac.id/ubuntu/ groovy-updates main restricted
+deb http://kambing.ui.ac.id/ubuntu/ groovy universe
+deb http://kambing.ui.ac.id/ubuntu/ groovy-updates universe
+deb http://kambing.ui.ac.id/ubuntu/ groovy multiverse
+deb http://kambing.ui.ac.id/ubuntu/ groovy-updates multiverse
+deb http://kambing.ui.ac.id/ubuntu/ groovy-backports main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ groovy-security main restricted
+deb http://kambing.ui.ac.id/ubuntu/ groovy-security universe
+deb http://kambing.ui.ac.id/ubuntu/ groovy-security multiverse
